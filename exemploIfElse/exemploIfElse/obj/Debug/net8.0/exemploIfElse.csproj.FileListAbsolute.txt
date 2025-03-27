@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\bin\Debug\net8.0\exemploIfElse.exe
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\bin\Debug\net8.0\exemploIfElse.deps.json
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\bin\Debug\net8.0\exemploIfElse.runtimeconfig.json
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\bin\Debug\net8.0\exemploIfElse.dll
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\bin\Debug\net8.0\exemploIfElse.pdb
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\exemploIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\exemploIfElse.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\exemploIfElse.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\exemploIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\exemploIfElse.dll
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\refint\exemploIfElse.dll
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\exemploIfElse.pdb
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\exemploIfElse.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\exemploIfElse\exemploIfElse\obj\Debug\net8.0\ref\exemploIfElse.dll

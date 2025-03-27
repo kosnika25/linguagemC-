@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\bin\Debug\net8.0\lacorepeticao.exe
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\bin\Debug\net8.0\lacorepeticao.deps.json
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\bin\Debug\net8.0\lacorepeticao.runtimeconfig.json
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\bin\Debug\net8.0\lacorepeticao.dll
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\bin\Debug\net8.0\lacorepeticao.pdb
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\lacorepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\lacorepeticao.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\lacorepeticao.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\lacorepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\lacorepeticao.dll
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\refint\lacorepeticao.dll
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\lacorepeticao.pdb
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\lacorepeticao.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\lacorepeticao\lacorepeticao\obj\Debug\net8.0\ref\lacorepeticao.dll
